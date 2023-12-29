@@ -4,7 +4,35 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a software engineer with expertise in Java and PHP, working in programming for years. I'm constantly seeking knowledge, and my main strength is my continuous learning attitude. I have experience in: Domain-Driven Design (DDD) Clean Code principles Command Query Responsibility Segregation (CQRS) PHP Standards Recommendations (PSR) Agile methodologies, especially Scrum Database modeling Docker Reverse Proxy AWS (Amazon Web Services) Pipelines Git (GitFlow) Design patterns Object-Oriented Programming (OOP) PostgreSQL Payment systems Financial systems Specifically in Laravel: Filament GraphQL Redis Creation of packages (public and private) Firebase Cloud Messaging Single Sign-On (SSO) authentication Microservices Octane Hyperf S2
+I am a software engineer with expertise in Java and PHP, working in programming for years. I'm constantly seeking knowledge, and my main strength is my continuous learning attitude.
+
+### I have experience in:
+ 
+* Domain-Driven Design (DDD) 
+* Clean Code principles 
+* Command Query Responsibility Segregation (CQRS) 
+* PHP Standards Recommendations (PSR) 
+* Agile methodologies
+* Database modeling 
+* Docker 
+* Reverse Proxy 
+* AWS (Amazon Web Services) 
+* Pipelines Git (GitFlow) 
+* Design patterns 
+* Object-Oriented Programming (OOP) 
+* PostgreSQL 
+* Payment systems 
+* Financial systems 
+* Specifically in Laravel: 
+* - Filament 
+* - GraphQL 
+* - Redis 
+* - Creation of packages (public and private) 
+* - Firebase Cloud Messaging 
+* Single Sign-On (SSO) authentication 
+* Microservices 
+* Octane 
+* Hyperf S2
 
 * 🌍  I'm based in São Paulo, Brasil
 * ✉️  You can contact me at [jefferson.dev@icloud.com](mailto:jefferson.dev@icloud.com)
